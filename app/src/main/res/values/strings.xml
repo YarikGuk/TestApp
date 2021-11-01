@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestAudioVideoApplication</string>
+
+    <string name="channel_name">channel_name</string>
+    <string name="channel_desc">channel_desc</string>
+    <string name="video">dQw4w9WgXcQ</string>
+</resources>
